@@ -15,6 +15,7 @@
 * time
 * torchvision
 * tqdm
+* [quaternion library](https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks)
 
 
 ## Intro
@@ -31,3 +32,7 @@
   cnn in the quaternion domain. Specifically we replaced the convolutional
   and linear layers of the cnn’s with quaternion convolutional layers and linear
   layers respectively.
+  
+  
+## Structure
+Our Project has two components, the classification and the segmentation part. In the classification part we build neural networks such as Alexnet ,Vgg16 and a custom one and in the segmentation part we took an already implemented Deep Hierarchical Feature Learning Architecture for Crack Segmentation [DeepCrack](https://github.com/yhlleo/DeepCrack)

@@ -39,5 +39,5 @@ Our Project has two components, the classification and the segmentation part. In
 <img
 
 ## Dataset
-  For the classification part we took images from [here](https://data.mendeley.com/datasets/xnzhj3x8v4/2) and [here](https://drive.google.com/drive/folders/1oJ-yoOaUf2TPbUB1LznrHOas_7imd68o)
+  For the classification part we took images from [here](https://data.mendeley.com/datasets/xnzhj3x8v4/2) and [here](https://drive.google.com/drive/folders/1oJ-yoOaUf2TPbUB1LznrHOas_7imd68o). For the segmentation part we took the dataset of the [Deepcrack github repository](https://github.com/yhlleo/DeepCrack/tree/master/dataset)
 

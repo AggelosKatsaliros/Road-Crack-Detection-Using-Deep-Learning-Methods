@@ -35,7 +35,7 @@
   
   
 ## Structure
-Our Project has two components, the classification and the segmentation part. In the classification part we build neural networks such as Alexnet ,Vgg16 and a custom one and in the segmentation part we took an already implemented Deep Hierarchical Feature Learning Architecture for Crack Segmentation [DeepCrack](https://github.com/yhlleo/DeepCrack).
+Our Project has two components, the classification and the segmentation part. In the classification part we build neural networks such as Alexnet ,Vgg16 and a custom model and in the segmentation part we took an already implemented Deep Hierarchical Feature Learning Architecture for Crack Segmentation [DeepCrack](https://github.com/yhlleo/DeepCrack).
 
 
 ## Dataset

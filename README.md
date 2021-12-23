@@ -41,7 +41,7 @@ Our Project has two components, the classification and the segmentation part. In
 
 
 ## Dataset
-  For the classification part we took images from [here](https://data.mendeley.com/datasets/xnzhj3x8v4/2) and [here](https://drive.google.com/drive/folders/1oJ-yoOaUf2TPbUB1LznrHOas_7imd68o). For the segmentation part we took the dataset of the [Deepcrack github repository](https://github.com/yhlleo/DeepCrack/tree/master/dataset)
+  For the classification part we took images from [here](https://data.mendeley.com/datasets/xnzhj3x8v4/2) and [here](https://data.mendeley.com/datasets/5y9wdsg2zt/2). For the segmentation part we took the dataset of the [Deepcrack github repository](https://github.com/yhlleo/DeepCrack/tree/master/dataset)
  
 ## Quaternion DeepCrack 
  Quaternion DeepCrack model can be downloaded in this [google drive](https://drive.google.com/file/d/1mENv9jIvgAmE9tS1tndHEzcJtZPNi240/view?usp=sharing). You can run the model by installing the [quaternion library](https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks) and then following the instructions in the [github repository](https://github.com/yhlleo/DeepSegmentor)
